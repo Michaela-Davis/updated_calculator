@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+
+#letter {
+  display: none;
+  max-width: 800px;
+  min-height: 1000px;
+  border: 1px solid grey;
+  padding: 75px;
+  margin: 20px;
+}
+
+#leftAddress {
+  text-align: right;
+  font-size: 90%;
+  padding: 20px;
+}
+
+h2{
+  font-size: 135%;
+}
+
+p {
+    font-size: 130%;
+}
